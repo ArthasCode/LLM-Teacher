@@ -1,2 +1,2 @@
-# Cook-master
-My TCC about a recipe agent LLM website. 
+# Introduction
+My TCC about a LLM agent with RAG to help on studies website. 
